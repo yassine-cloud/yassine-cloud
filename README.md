@@ -15,7 +15,7 @@ I build clean, user-focused web experiences and keep learning every day.
 
 ## GitHub Stats
 
-![yassine-cloud GitHub stats](https://github-readme-stats.vercel.app/api?username=yassine-cloud&show_icons=true&theme=tokyonight&hide_border=true)
+<!-- ![yassine-cloud GitHub stats](https://github-readme-stats.vercel.app/api?username=yassine-cloud&show_icons=true&theme=tokyonight&hide_border=true) -->
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=yassine-cloud&theme=tokyonight&hide_border=true)
 
